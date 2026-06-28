@@ -1,6 +1,6 @@
 # MonthSalaryCat（月薪喵 OLED 动画）
 
-这是一个 STM32CubeIDE 工程，用于在 128x64 I2C OLED 屏幕上播放黑白月薪喵动画。
+这是一个 STM32CubeIDE 工程，用于在 128x64 I2C OLED 屏幕上播放黑白月薪喵动画。代码已压缩打包在release中，包含 STM32CubeIDE 工程文件、OLED 驱动、动画帧数据和预览 GIF。
 
 ## 硬件
 
